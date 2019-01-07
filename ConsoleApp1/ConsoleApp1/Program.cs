@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("My first GIT program from visual studio");
             Console.WriteLine("Code was added in Git Hub");
+            Console.WriteLine("Another Code added in Git Hub");
             
         }
     }

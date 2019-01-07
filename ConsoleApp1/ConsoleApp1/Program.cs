@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("My first GIT program from visual studio");
+            Console.WriteLine("Code was added in Git Hub");
+            Console.WriteLine("Another Code added in Git Hub");
+            Console.WriteLine("Code was added in Visual studio");            
             Console.WriteLine("acb - feature 3");
         }
     }
